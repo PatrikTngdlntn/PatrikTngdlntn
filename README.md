@@ -1,7 +1,6 @@
-## Hi there 👋
+## Hi there I'm Patrik Tangdilintin👋
 
-<!--
-**PatrikTngdlntn/PatrikTngdlntn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **PatrikTngdlntn/PatrikTngdlntn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,5 +11,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
+
+I am an Information Technology graduate with a focus on software development and data analysis. I have experience building web applications using technologies such as React, Laravel, and Tailwind CSS, and have a strong interest in data processing using clustering algorithms. I am a meticulous adaptable individual, and always enthusiastic about learning new technologies to create efficient and useful digital solutions✨.
